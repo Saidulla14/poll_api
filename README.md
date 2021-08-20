@@ -65,7 +65,7 @@ API для системы опросов пользователей
 - URL: `/api/my_polls/`
 
 ## Технологии
-Python 3.8
-Django 2.2.10
-Djnago Rest Framework
+Python 3.8,
+Django 2.2.10,
+Djnago Rest Framework,
 Simple JWT
